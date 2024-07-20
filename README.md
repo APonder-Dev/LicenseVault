@@ -62,7 +62,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Contributing
 
-We welcome contributions! If you'd like to help improve ClipCatcher, please follow these steps:
+We welcome contributions! If you'd like to help improve LicenseVault, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature`).
@@ -78,7 +78,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 - [Discord](https://github.com/Rapptz/discord.py)
 - [Python-Dotenv](https://github.com/theskumar/python-dotenv)
-- [SQLite]
+- SQLite
 
 ## Donation
 
